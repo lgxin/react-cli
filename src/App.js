@@ -17,7 +17,7 @@ class App extends React.Component {
     const menu = (
       <Menu>
         <Menu.Item key="0">
-          <a target="_blank" rel="noopener noreferrer" href="http://www.alipay.com/">退出登陆</a>
+          <a target="_blank" rel="noopener noreferrer" href="http://www.baidu.com/">退出登陆</a>
         </Menu.Item>
         <Menu.Divider />
       </Menu>
